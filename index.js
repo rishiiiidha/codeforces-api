@@ -8,7 +8,7 @@ dotenv.config();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Codeforces API!🚀 To retrieve user data, use the following endpoint: http://https://codeforces-apiii.vercel.app/api/{username}');
+  res.send('Welcome to the Codeforces API!🚀 To retrieve user data, use the following endpoint: https://codeforces-apiii.vercel.app/api/{username}');
 })
 
 
