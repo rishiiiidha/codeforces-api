@@ -34,5 +34,5 @@ A successful request to the endpoint will return a JSON response with the follow
 }
 ```
 
-## Disclaimer
-This project isn't connected to or supported by Codeforces. It's just for learning how to make a RESTful API using Node.js, Express.js, and JSDOM for web scraping.
+
+<h6>This project isn't connected to or supported by Codeforces. It's just for learning how to make a RESTful API using Node.js, Express.js, and JSDOM for web scraping.</h6>
